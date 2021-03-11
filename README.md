@@ -1,2 +1,2 @@
-# vc.larksuite.com-
+# vc.larksuite.com
 takeover
